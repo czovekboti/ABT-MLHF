@@ -4,8 +4,8 @@ Repository for deep learning group homework.
 **Team Name:** ABT
 
 ## Team Members
-* Baranyai András -
-* Czövek Botond -
+* Baranyai András - TH488S
+* Czövek Botond - GP2H51
 * Sági Tamás - G9VGFF
 
 ## Project Description
