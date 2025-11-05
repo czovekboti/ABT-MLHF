@@ -29,3 +29,19 @@ This problem is scientifically important because atmospheric effect such as **cl
 Therefore, while detecting ships in different weather conditions is quite challenging, it is possible with the right combination of data sourcing and preprocessing.
 
 However, in the Airbus dataset only RGB optical images are available, which means that we cannot apply radar-based or multi spectral approaches. We are not be able to see through clouds with RGB images. A preprocessing technique which can be useful to reach better result is contrast enhancement, to improve visibility in low-contrast areas.
+
+## Bibliography
+
+Airbus. (n.d.). Earth observation imagery and data. Airbus Space Solutions. Retrieved November 5, 2025, from https://space-solutions.airbus.com/imagery/
+
+European Union Satellite Centre (SatCen). (n.d.). SAR Course. Retrieved November 5, 2025, from https://www.satcen.europa.eu/page/sar_course_sar_
+
+Farmonaut. (n.d.). Can satellites see through clouds? 5 insights. Retrieved November 5, 2025, from https://farmonaut.com/remote-sensing/how-satellites-see-through-clouds-5-powerful-insights
+
+NASA Earthdata. (n.d.). Seeing Earth in a new light. Retrieved November 5, 2025, from https://www.earthdata.nasa.gov/news/feature-articles/seeing-earth-new-light
+
+NASA Earthdata. (n.d.). Synthetic Aperture Radar (SAR). Retrieved November 5, 2025, from https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/sar
+
+NASA Earth Observatory. (n.d.). Why is that forest red and that cloud blue? How to interpret a false-color satellite image. Retrieved November 5, 2025, from https://earthobservatory.nasa.gov/features/FalseColor/page5.php
+
+The Open University. (n.d.). Watching the weather. OpenLearn. Retrieved November 5, 2025, from https://www.open.edu/openlearn/nature-environment/environmental-studies/watching-the-weather/content-section-2.2
