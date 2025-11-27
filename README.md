@@ -56,3 +56,15 @@ The notebook will then:
 1.  Extract the data into the `./airbus_data/` directory.
 2.  Perform all cleaning, splitting, and preprocessing steps.
 3.  Display visualization samples at the end as a sanity check.
+
+#### Creating the model and training
+The model creation and training code can be found inside the "2ND Phase" Jupyter notebook(on 2nd Milestone branch). All code should run as provided, the model can be initialized and trained without any additional setup.  If you encounter CUDA Out Of Memory (OOM) errors during training, simply reduce the batch size to ensure the data fits into your GPU's available memory.
+The notebook will:
+- Create the Model
+- Train it (on multiple GPUs if available), using model checkpoint and early stopping
+- Calculate validation loss while training
+- Evaluate model by dice score
+- Visualize model predictions against masks
+
+
+
