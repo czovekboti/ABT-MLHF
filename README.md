@@ -63,4 +63,4 @@ The notebook will then:
 6.  Run inference on a validation dataset and visualize predictions as masks and overlays as a final sanity check.
 7.  Will also calculate TP/FP/TN/FN, precision/recall/accuracy metrics.
 
-`Demo.ipynb` is intended for visualization and presentation purposes. It uses the same evaluation metrics as the main notebook and additionally runs model predictions on images from the test folder for qualitative demonstration.
+`Presentation_Demo.ipynb` is intended for visualization and presentation purposes. It uses the same evaluation metrics as the main notebook and additionally runs model predictions on images from the test folder for qualitative demonstration.
