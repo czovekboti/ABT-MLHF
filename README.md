@@ -1,4 +1,4 @@
-# ABT-MLHF
+# ABT-MLHF - Megajánlott jegyért
 Repository for deep learning group homework.
 
 **Team Name:** ABT
